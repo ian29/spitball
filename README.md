@@ -1,0 +1,4 @@
+spitball
+========
+
+osm diversity experimenting
