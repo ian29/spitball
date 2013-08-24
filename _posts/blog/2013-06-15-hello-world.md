@@ -8,8 +8,6 @@ author: ian
 
 Hello world! this is some text, this is a [link](blergh).
 
-![](http://farm6.staticflickr.com/5452/9387566853_af43617d1e_n.jpg)
-
 ### sub heading
 
 Terry Richardson keytar Odd Future, biodiesel pug swag beard Marfa fashion axe. Schlitz DIY asymmetrical, plaid craft beer art party selfies. Mustache swag cliche, narwhal selvage butcher actually banh mi art party. Fashion axe you probably haven't heard of them pour-over chillwave stumptown. Lomo occupy roof party, brunch polaroid kitsch PBR. Kogi sriracha Truffaut, mumblecore literally pickled aesthetic art party. Shoreditch Odd Future irony Carles, VHS plaid cray organic single-origin coffee pour-over.
