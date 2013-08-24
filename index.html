@@ -9,7 +9,7 @@ title: azimuth
   			<h3>{{item.title}}</h3>
   			<em>{{item.author}}</em>
   			<hr class='prose'>
-  			<p class='prose'>{{ item.content | strip_md | truncatewords:75}}</p>
+  			<p class='prose'>{{ item.content | strip_html | truncatewords:75}}</p>
   		</a>
 	</div>
 	&#9733;
