@@ -1,0 +1,16 @@
+---
+layout: default
+title: azimuth
+---
+
+{% for item in site.categories.blog limit:20 %}
+  	<div class='clearfix prose'>
+  		<a class='quiet' href='{{site.baseurl}}{{item.permalink}}'>
+  			<h3>{{item.title}}</h3>
+  			<h4>{{item.author}}</h4>
+  			<hr class='prose'>
+  			<p class='prose'>{{ item.content | truncatewords:75}}</p>
+  		</a>
+	</div>
+	<br>
+{% endfor %}

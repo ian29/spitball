@@ -1,0 +1,26 @@
+---
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <title>azimuth {% if page.url != '/index.html' %}| {{page.title}}{% endif %}</title>
+  <meta charset='UTF-8'/>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <link rel='shortcut icon' href='{{site.baseurl}}/img/favicon.ico' type='image/x-icon' />
+  <link href='{{site.baseurl}}/style.css' rel='stylesheet' />
+  <link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700' rel='stylesheet' type='text/css'>
+  <link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+</head>
+<body>
+  <div class='container col12'>
+    <a class='quiet' href='{{site.basurl}}'>
+      <h1>Azimuth</h1>
+    </a>
+    <a href='{{site.basurl}}/about'>about</a> | 
+    <a href='{{site.basurl}}/guide'>discussion guidlines</a> | 
+    <a href='{{site.basurl}}/resources'>resources</a><br>
+    {{content}}
+  </div>
+  <script src='{{site.baseurl}}/site.js'></script>
+</body>

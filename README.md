@@ -1,4 +1,3 @@
-spitball
-========
+## azimuth
 
-osm diversity experimenting
+people working on diversity in OSM
